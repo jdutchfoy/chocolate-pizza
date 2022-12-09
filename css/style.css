@@ -1,0 +1,31 @@
+#MasterHeader{
+  border: solid blue;
+  display: flex;
+  justify-content: space-between;
+}
+#SecondaryHeader{
+
+  border:5px solid red;
+  display:flex;
+  width:max-content
+}
+h1{
+  font-family: Arial, Helvetica, sans-serif; /* find font */
+  font-size: 25px;
+}
+
+h2{
+  font-family: Arial, Helvetica, sans-serif; /* find font*/
+  font-size: 14px;
+
+}
+
+header ul{
+  border: 5px solid black;
+  display: flex;
+  width: max-content
+}
+
+#BackgroundMaster{
+background-image: url("img/hr-img.png"); /* figure out background img */
+}
